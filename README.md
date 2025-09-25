@@ -1,1 +1,11 @@
 # DASHBOARD
+- Adapts layout fluidly across mobile, tablet, and desktop for consistent user experience on all devices.
+- Uses flexible grids and media queries to rearrange components based on screen size and orientation.
+- Mobile view prioritizes vertical stacking, large buttons, and simplified navigation for easy touch interaction.
+- Tablet layout balances compactness and functionality, often using split views or collapsible side drawers.
+- Desktop version supports multi-column grids, hover effects, and detailed charts with advanced user interactions.
+- Touch-friendly design ensures tap targets are large enough for fingers, improving accessibility and usability.
+- Navigation adapts: hamburger menu on mobile, sidebar or top bar on larger screens.
+- Charts and cards resize dynamically, maintaining readability and visual clarity across all screen sizes.
+- Consistent design system ensures typography, spacing, and colors remain uniform across platforms and breakpoints.
+- Responsive UI boosts engagement, reduces bounce rate, and provides seamless experience across all user devices.
